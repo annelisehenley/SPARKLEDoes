@@ -1,2 +1,0 @@
-# SPARKLEDoes
-Created with CodeSandbox

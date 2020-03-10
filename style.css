@@ -1,0 +1,17 @@
+img {
+  height: 400px;
+  width: auto;
+}
+* {
+  text-align: center;
+  color: #fa1684;
+  background-color: #e9ed0c;
+  font-family: "Permanent Marker", cursive;
+}
+h2:hover {
+  color: white;
+}
+span {
+  color: red;
+  font-family: "Amatic SC", cursive;
+}
